@@ -10,7 +10,6 @@ import NextLogo from '../assets/NextLogo.png'
 import TailwindLogo from '../assets/TailwindLogo.png'
 import EtherLogo from '../assets/EtherLogo.png'
 import SolidityLogo from '../assets/SolidityLogo.png'
-import CV from '../assets/Martin Galoux English Resume.pdf'
 import { ReactNode } from 'react'
 
 const Badge = ({
