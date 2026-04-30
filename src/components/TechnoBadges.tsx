@@ -133,17 +133,6 @@ function TechnoBadges() {
           />
         </BadgeGrouping>
       </div>
-      <a
-        href={CV}
-        download={'Hire me !'}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="self-end mt-4 "
-      >
-        <p className="border-b border-[#646cff] arrow-animation">
-          &nbsp;&nbsp;Download CV
-        </p>
-      </a>
     </section>
   )
 }
