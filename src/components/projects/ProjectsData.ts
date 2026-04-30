@@ -124,41 +124,6 @@ export const maskottProjectData: ProjectDataInterface = {
   subtitle: 'Full-Time Contract',
 }
 
-export const deepLogicProjectData: ProjectDataInterface = {
-  testimonials: [
-    {
-      referent: 'Stéphane Barbier',
-      referentRole: 'Founder and President of Deep-Logic',
-      testimonialText: `Martin a réalisé un excellent travail au sein de notre équipe en tant que seul développeur Front. Ses propositions pertinentes ont permis de réaliser une UI moderne et efficace, sans détail laissé au hasard. Ayant toujours à cœur d'offrir la meilleure expérience utilisateur, il a su monter en compétence de manière autonome dans toutes les technos nécessaires. Parfaitement intégré à l'équipe, moteur et très bon développeur, travailler avec Martin a été un honneur et un plaisir. `,
-      referentPictureUrl:
-        'https://media.licdn.com/dms/image/C4D03AQFGsp_1v7jivg/profile-displayphoto-shrink_800_800/0/1609803669665?e=1704326400&v=beta&t=pCIoxpSNkBaKRyPpRCiPsSJeVDgS2EURU6O0CxnzrIc',
-      linkedInUrl: 'https://www.linkedin.com/in/stefbbr/',
-    },
-  ],
-  tags: [
-    'Mobile Development',
-    'iOS',
-    'Android',
-    'React Native',
-    'UI / UX',
-    'Figma',
-    'MongoDB',
-  ],
-  bodyDescription: `The objective of this emerging startup was to establish a proof-of-concept project aimed at validating the feasibility of a data structure replicable across multiple domains. To achieve this goal, we made the strategic decision to launch a highly customizable cooking application. Our vision encompassed leveraging artificial intelligence to provide meals that were tailored precisely to each customer's preferences and requirements.`,
-  contextDescription: `The objective of this emerging startup was to establish a proof-of-concept project aimed at validating the feasibility of a data structure replicable across multiple domains. To achieve this goal, we made the strategic decision to launch a highly customizable cooking application. Our vision encompassed leveraging artificial intelligence to provide meals that were tailored precisely to each customer's preferences and requirements.`,
-  responsibilities: [
-    'Full Stack mobile development in React and MongoDB',
-    'Digitial conceptualisation of a hyper-personnalized cooking app',
-    'UI / UX design of a mobile app from scratch with Figma',
-    'Front-End mobile app development with React Native / JavaScript',
-  ],
-  pictureUrl:
-    'https://media.licdn.com/dms/image/C4D0BAQFsi0YLteCanw/company-logo_200_200/0/1576335715495?e=1706745600&v=beta&t=Mf0n2mCgDhZ7_9-icfmgBjS4IuLfW4Cy5OLp1rGNnM4',
-  date: `2020 March - 2020 July<br/> 2021 September - 2022 February`,
-  title: 'DeepLogic',
-  subtitle: 'Internships',
-}
-
 export const exchangeProjectData: ProjectDataInterface = {
   images: [
     'https://cdn.discordapp.com/attachments/909785310039253022/1169945708820967465/DEXScreenshot.png?ex=65573fd9&is=6544cad9&hm=5e1eb8bd3a634544f8c9439786f3ff083f4690e1b1965fcc9abf709d696e8f2f&',

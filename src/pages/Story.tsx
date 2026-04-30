@@ -126,19 +126,6 @@ function Story() {
         <Year year="2020" />
         <Line />
         <StoryBlock
-          title="Second Internship : DEEP-LOGIC 🐙"
-          description={{
-            __html: `
-          <p>After two years learning about event-making in Epitech esports non-profit
-           organization association Gametek Lyon, my recognized dedication allows me to
-            start leading a 15-person team to create the best events esports in France.
-             The best is yet to come...</p>
-          `,
-          }}
-          link="./deep-logic"
-        />
-        <Line />
-        <StoryBlock
           title="Exchange Year in Korea &nbsp;🇰🇷"
           description={{
             __html: `
@@ -147,21 +134,6 @@ function Story() {
             science, practice English and Korean languages, and be exposed to a tremendously
              different culture. I was able to learn about IoT, Game Development, Advanced Data
               Structures, Networking, and more. To this day, I'm very grateful for this experience.</p>
-          `,
-          }}
-        />
-        <Line />
-        <Year year="2021" />
-        <Line />
-        <StoryBlock
-          title="Third Internship : DEEP-LOGIC 🐙"
-          link="./deep-logic"
-          description={{
-            __html: `
-          <p>After South Korea, my previous team contacts me saying they have new work opportunities.
-           Since I really enjoyed the previous internship at Deep-Logic, I decide to go back for six
-            more months. This time with more responsibilities, I dived into both Front-End and
-             Backend Development, along with CI/CD and Software Architecture.</p>
           `,
           }}
         />

@@ -7,7 +7,6 @@ import Blog from './pages/Blog'
 import BlogArticle from './pages/BlogArticle'
 import Conity from './components/projects/Conity'
 import Exchange from './components/projects/Exchange'
-import DeepLogic from './components/projects/DeepLogic'
 import LiveExtension from './components/projects/LiveExtension'
 import Maskott from './components/projects/Maskott'
 import StreamManager from './components/projects/StreamManager'
@@ -39,7 +38,6 @@ export default function App() {
           <Route path="contact" element={<Contact />} />
           <Route path="conity" element={<Conity />} />
           <Route path="exchange" element={<Exchange />} />
-          <Route path="deep-logic" element={<DeepLogic />} />
           <Route path="live-extension" element={<LiveExtension />} />
           <Route path="maskott" element={<Maskott />} />
           <Route path="stream-manager" element={<StreamManager />} />

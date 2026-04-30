@@ -55,7 +55,6 @@ function AllProjects() {
           />
           <ProjectItem key={4} title="Stream Manager" to="/stream-manager" />
           <ProjectItem key={5} title="Conity" to="/conity" />
-          <ProjectItem key={6} title="Deep-Logic" to="/deep-logic" />
         </m.ul>
       </div>
     </div>
